@@ -32,7 +32,7 @@ const MenuTab = () => {
     else setIsActive(idx);
   };
   return (
-    <div className="flex flex-col gap-[10px] lg:gap-0 lg:flex-row lg:w-[calc(100%-300px)] lg:mx-auto lg:h-[80vh] lg:relative">
+    <div className="flex flex-col gap-[10px] lg:gap-0 lg:flex-row lg:w-[calc(100%-300px)] lg:mx-auto lg:h-[90vh] lg:relative">
       {listIconContent.map((item: any, idx: number) => (
         <div className="bg-[#F4F4F4] lg:bg-white rounded-[18px] flex-1">
           <TabItem
