@@ -93,7 +93,7 @@ const MenuTab = () => {
                     <img
                       src={images1}
                       alt="images"
-                      className="w-full mx-auto lg:hover:scale-[1.2] object-cover lg:hover:mb-[30px] lg:hover:transition-[0.5s] lg:hover:rounded-[18px]"
+                      className="w-full mx-auto object-cover"
                     />
                     <h4 className="text-[#000] text-[13px] font-medium text-center">
                       Aero
@@ -114,7 +114,7 @@ const MenuTab = () => {
                     <img
                       src={images2}
                       alt="images"
-                      className="w-full mx-auto lg:hover:scale-[1.2] object-cover lg:hover:mb-[30px] lg:hover:transition-[0.5s] lg:hover:rounded-[18px]"
+                      className="w-full mx-auto object-cover"
                     />
                     <h4 className="text-[#000] text-[13px] font-medium text-center">
                       Castell
@@ -135,7 +135,7 @@ const MenuTab = () => {
                     <img
                       src={images3}
                       alt="images"
-                      className="w-full mx-auto lg:hover:scale-[1.2] object-cover lg:hover:mb-[30px] lg:hover:transition-[0.5s] lg:hover:rounded-[18px]"
+                      className="w-full mx-auto object-cover"
                     />
                     <h4 className="text-[#000] text-[13px] font-medium text-center">
                       Architect
