@@ -80,7 +80,7 @@ const MenuTab = () => {
                     <span className="text-[#F4B840] text-[36px] font-bold">
                       25%
                     </span>
-                    <span className="text-[#F4B840] text-[18px]lg:text-[36px] lg:ml-2 font-bold lg:lowercase">
+                    <span className="text-[#F4B840] text-[18px] lg:text-[36px] lg:ml-2 font-bold lg:lowercase">
                       OFF
                     </span>
                   </div>
