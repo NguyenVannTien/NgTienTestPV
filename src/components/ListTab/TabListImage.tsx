@@ -22,12 +22,12 @@ const TabListImage = () => {
               <img
                 src={image23}
                 alt="images23"
-                className="object-cover lg:h-[185px] lg:rounded-[12px]"
+                className="object-cover lg:h-[185px] lg:rounded-[12px] lg:hover:scale-[1.2] lg:hover:transition-[0.5s]"
               />
               <img
                 src={image27}
                 alt="image27"
-                className="object-cover lg:h-[308px] lg:rounded-[12px]"
+                className="object-cover lg:h-[308px] lg:rounded-[12px] lg:hover:scale-[1.2] lg:hover:transition-[0.5s]"
               />
             </div>
             <div className="flex flex-wrap w-[48.5%] lg:flex-col lg:basis-[47%] lg:gap-3">
@@ -39,12 +39,12 @@ const TabListImage = () => {
               <img
                 src={image29}
                 alt="image29"
-                className="object-cover hidden lg:block lg:rounded-[12px]"
+                className="object-cover hidden lg:block lg:rounded-[12px] lg:hover:scale-[1.2] lg:hover:transition-[0.5s]"
               />
               <img
                 src={image24}
                 alt="image24"
-                className="hidden lg:block object-cover lg:h-[284px] lg:rounded-[12px]"
+                className="hidden lg:block object-cover lg:h-[284px] lg:rounded-[12px] lg:hover:scale-[1.2] lg:hover:transition-[0.5s]"
               />
             </div>
             <div className="flex flex-col gap-2">
@@ -58,18 +58,18 @@ const TabListImage = () => {
               <img
                 src={image21}
                 alt="image21"
-                className="object-cover lg:rounded-[12px] lg:h-[119px]"
+                className="object-cover lg:rounded-[12px] lg:h-[119px] lg:hover:scale-[1.2] lg:hover:transition-[0.5s]"
               />
               <div className="flex gap-2 lg:flex-col">
                 <img
                   src={image28}
                   alt="image28"
-                  className="w-[48.5%] lg:w-full object-cover lg:rounded-[12px] lg:h-[230px]"
+                  className="w-[48.5%] lg:w-full object-cover lg:rounded-[12px] lg:h-[230px] lg:hover:scale-[1.2] lg:hover:transition-[0.5s]"
                 />
                 <img
                   src={image26}
                   alt="images26"
-                  className="w-[48.5%] lg:w-full object-cover lg:rounded-[12px] lg:h-[138px]"
+                  className="w-[48.5%] lg:w-full object-cover lg:rounded-[12px] lg:h-[138px] lg:hover:scale-[1.2] lg:hover:transition-[0.5s]"
                 />
               </div>
             </div>
